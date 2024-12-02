@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding-top: 30px;
+}
+
+.table {
+  background-color: #fff;
+}
+
+.text-warning {
+  color: #ffc107;
+}
+
+.text-primary {
+  color: #007bff;
+}
+
+.text-success {
+  color: #28a745;
+}
+
+.error {
+  color: red;
+}
+
+#filterStatus {
+  width: 200px;
+}
